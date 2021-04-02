@@ -1,0 +1,8 @@
+Case 1 (Removal of Geolocational Entries):
+3175 Poor Geolocational Entries Removed
+
+Case 2 (Removal of Suspected events, Threshold @ 10):
+2447 Suspected Event Entries Removed 
+
+Case 3 (Removal of Geolocational Entries and Suspected Events, Threshold @ 10):
+5544 Total Entries Removed
