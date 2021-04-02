@@ -1,4 +1,4 @@
-This {GLOBE Observer Mosquito Habitat Mapper Citizen Science Data 2017-2020, v1.0} is made available under the Open Database License: http://opendatacommons.org/licenses/odbl/1.0/. Any rights in individual contents of the database are licensed under the Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/. Preferred citation: Low, R., Boger, B., Nelson, P. and Kimura, M. (2021).  GLOBE Observer Mosquito Habitat Mapper Citizen Science Data 2017-2020, v1.0. (URL HERE).
+This {GLOBE Observer Mosquito Habitat Mapper Citizen Science Data 2017-2020, v1.0} is made available under the Open Database License: https://opendatacommons.org/licenses/odbl/1.0/. Any rights in individual contents of the database are licensed under the Database Contents License: https://opendatacommons.org/licenses/dbcl/1.0/. Preferred citation: Low, R., Boger, B., Nelson, P. and Kimura, M. (2021).  GLOBE Observer Mosquito Habitat Mapper Citizen Science Data 2017-2020, v1.0. (URL HERE).
 
 
 Archived GO MHM data 2017-2020 (*data set used in article submitted to Geohealth)
