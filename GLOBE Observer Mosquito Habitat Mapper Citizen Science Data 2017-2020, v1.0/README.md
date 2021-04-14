@@ -1,4 +1,6 @@
-Archived GO MHM data 2017-2020 (*data set used in article submitted to Geohealth*)
+###Three Cases: Metadata and Procedures
+
+The data sets described here were used in an article submitted to the journal GeoHealthin 2021. The data files and further supplemental links (including general information about GLOBE data) can be accessed at https://observer.globe.gov/get-data/mosquito-habitat-data.
 
 **Case 1:** Removal of records with suspect geolocation data. A Python script was applied to remove records where the measured position (in decimal degrees) was identical to the GLOBE MGRS site position. GPS-obtained latitude and longitude coordinates are reported in decimal degrees, so records identified by whole numbers were also removed. This procedure removed 5704 (23%) of the 24983 records in the Mosquito Habitat Mapper database, with 19,279 records remaining. The secondary data sets cleaned only for geolocation anomalies were labeled Case 1.
 
@@ -9,3 +11,5 @@ Archived GO MHM data 2017-2020 (*data set used in article submitted to Geohealth
 **Acknowledgments:** These data were obtained from NASA and the GLOBE Program and are freely available for use in research, publications and commercial applications. When data from GLOBE are used in a publication, we request this acknowledgment be included: "These data were obtained from the GLOBE Program." Please include such statements, either where the use of the data or other resource is described, or within the acknowledgments section of the publication.
 
 **Citation:** Low, R., Boger, B., Nelson, P. and Kimura, M. (2021).  GLOBE Observer Mosquito Habitat Mapper Citizen Science Data 2017-2020, v1.0.  (Publication URL tbd).
+
+The information in this description was last updated 2021-04-12
