@@ -1,4 +1,4 @@
-###Three Cases: Metadata and Procedures
+**Three Cases: Metadata and Procedures**
 
 The data sets described here were used in an article submitted to the journal GeoHealthin 2021. The data files and further supplemental links (including general information about GLOBE data) can be accessed at https://observer.globe.gov/get-data/mosquito-habitat-data.
 
